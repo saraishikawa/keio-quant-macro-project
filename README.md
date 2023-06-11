@@ -1,1 +1,0 @@
-# keio-quant-macro-project
